@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "blog",
-    "blango_auth"
+    "blango_auth",
+    "rest_framework"
 ]
 
 LOGGING = {
